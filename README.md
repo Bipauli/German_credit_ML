@@ -27,6 +27,8 @@ This project explores techniques to mitigate bias in machine learning models, wi
    - Reweighting (pre-processing)
    - Reject Option-based Classification (post-processing).
 
+## How to reproduce our results 
+Run the notebook `final_notebook.ipynb` to replicate the analysis.
 
 ## Authors
 * Pauline Bian
